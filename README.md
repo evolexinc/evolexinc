@@ -44,10 +44,10 @@ Evolex Inc is a technology company focused on building and deploying innovative 
 
 ## Connect with Evolex Inc
 
-- 📧 Email: [contact@evolexinc.com]
-- 💼 LinkedIn: [https://linkedin.com/company/evolex-inc](https://linkedin.com/company/evolex-inc)
-- 🌐 Website: [https://evolexinc.com](https://evolexinc.com)
-- 🐦 Twitter: [https://twitter.com/evolexinc](https://twitter.com/evolexinc)
+- 📧 Email: [hello@evolex.in]
+- 💼 LinkedIn: [https://linkedin.com/company/evolexinc](https://linkedin.com/company/evolexinc)
+- 🌐 Website: [https://evolexinc.com](https://evolex.in)
+- 🐦 Twitter: [https://twitter.com/evolexinc](https://x.com/evolexinc)
 
 ---
 
