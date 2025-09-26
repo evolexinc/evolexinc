@@ -50,10 +50,20 @@ Evolex Inc is a technology company focused on building and deploying innovative 
 - 🐦 Twitter: [https://twitter.com/evolexinc](https://x.com/evolexinc)
 
 ---
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evolexinc&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evolexinc&layout=compact&theme=radical" />
+</div>
 
-## GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=evolexinc&theme=radical&hide_border=true" alt="evolexinc" />
+</div>
 
-![Evolex Inc GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=evolexinc&theme=radical&row=1&column=7" alt="evolexinc" />
+</div>
+
 
 ---
 
