@@ -17,12 +17,12 @@ Evolex Inc is a technology company focused on building and deploying innovative 
 
 ## Core Competencies
 
-| Backend                       | Frontend                   | DevOps & Tools                  | Additional Expertise             |
-|------------------------------|----------------------------|--------------------------------|---------------------------------|
+| Backend                      | Frontend                    | DevOps & Tools                  | Additional Expertise            |
+|------------------------------|-----------------------------|---------------------------------|---------------------------------|
 | PHP (CodeIgniter4, Laravel)  | HTML, CSS, JavaScript       | Docker, Composer, Git           | Automation Bots                 |
 | Python (Django)              | Bootstrap, Ajax, JQuery     | Google Cloud, Hostinger VPS     | SEO & Digital Marketing         |
-| MySQL, SQL                   |                            | ERPNext/Frappe Deployment       | CRM & ERP Customization         |
-| API Development              |                            | Payment Gateway Integration     | Twilio SMS & OTP Services       |
+| MySQL, SQL                   |  tailwind css alpinejs      | ERPNext/Frappe Deployment       | CRM & ERP Customization         |
+| API Development              |                             | Payment Gateway Integration     | Twilio SMS & OTP Services       |
 
 ---
 
